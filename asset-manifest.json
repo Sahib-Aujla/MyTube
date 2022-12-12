@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TheExpressVideo/static/css/main.7064deb2.css",
+    "main.js": "/TheExpressVideo/static/js/main.535e4653.js",
+    "index.html": "/TheExpressVideo/index.html",
+    "main.7064deb2.css.map": "/TheExpressVideo/static/css/main.7064deb2.css.map",
+    "main.535e4653.js.map": "/TheExpressVideo/static/js/main.535e4653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.535e4653.js"
+  ]
+}
